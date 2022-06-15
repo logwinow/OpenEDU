@@ -1,0 +1,8 @@
+{
+ "headers": {
+   "/*": {
+     "X-Author": "kwazili",
+     "Access-Control-Allow-Origin": "*"
+   }
+ }
+}
